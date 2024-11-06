@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4731ca586344a824491c742473a25f0a, type: 3}
+  m_Name: "\uD788\uBE44\uC2A4\uCEE4\uC2A4"
+  m_EditorClassIdentifier: 
+  _nameEngilsh: Hibiscus
+  _name: "\uD788\uBE44\uC2A4\uCEE4\uC2A4"
+  _star: 3
+  _icon: {fileID: 21300000, guid: f44f419502347dd4cbe8dfdfe0c072be, type: 3}
+  _position: 0
+  _hp: 1220
+  _attack: 363
+  _defense: 110
+  _magicResistance: 0
+  _placementTime: 35
+  _arrangementCost: 15
+  _block: 1
+  _attackSpeed: 1.9
+  _faith: 0
+  _evasion:
+  - 0
+  - 0
+  _level: 55
+  _elite: 1
+  _potential: 5
+  _potentialDes:
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  - "\uC7AC\uBC30\uCE58 \uC2DC\uAC04 -4\uCD08"
+  - "\uACF5\uACA9\uB825 +18"
+  - "\uC7AC\uBC30\uCE58 \uC2DC\uAC04 -6\uCD08"
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  _skillStartCost: 
+  _skillCost: 1e000000
+  _skillTime: 14000000
+  _skillName:
+  - "\uCE58\uB8CC \uAC15\uD654 \u03B1"
+  _skillType: 0100
+  _skillActive: 0001
+  _skillDes:
+  - "\uACF5\uACA9\uB825 +20%"
+  _skillRank: 1
+  _skillAdd: 00000000
+  _classificationName: "\uBA54\uB515"
+  _module: 0
+  _moduleName: []
+  _moduleDes: /
+  _characteristicDes: "\uC544\uAD70 HP \uD68C\uBCF5"
+  _talent: "\uD68C\uBCF5\uB825 \uC0C1\uC2B9"
+  _talentDes: "\uACF5\uACA9\uB825 +8%"

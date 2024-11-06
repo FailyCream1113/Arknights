@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4731ca586344a824491c742473a25f0a, type: 3}
+  m_Name: "\uB77C\uBC14"
+  m_EditorClassIdentifier: 
+  _nameEngilsh: Lava
+  _name: "\uB77C\uBC14"
+  _star: 3
+  _icon: {fileID: 21300000, guid: b31842fea7166354bb1cf62c5250f229, type: 3}
+  _position: 5
+  _hp: 1141
+  _attack: 582
+  _defense: 95
+  _magicResistance: 15
+  _placementTime: 70
+  _arrangementCost: 28
+  _block: 1
+  _attackSpeed: 2.3
+  _faith: 0
+  _evasion:
+  - 0
+  - 0
+  _level: 55
+  _elite: 1
+  _potential: 5
+  _potentialDes:
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  - "\uC7AC\uBC30\uCE58 \uC2DC\uAC04 -4\uCD08"
+  - "\uACF5\uACA9 \uC18D\uB3C4 +8"
+  - "\uC7AC\uB2A5 \uAC15\uD654"
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  _skillStartCost: 
+  _skillCost: 32000000
+  _skillTime: 14000000
+  _skillName:
+  - "\uC804\uC220 \uC601\uCC3D \u03B1"
+  _skillType: 0100
+  _skillActive: 0001
+  _skillDes:
+  - "\uACF5\uACA9 \uC18D\uB3C4 +10"
+  _skillRank: 1
+  _skillAdd: 00000000
+  _classificationName: "\uC2A4\uD50C\uB798\uC2DC \uCE90\uC2A4\uD130"
+  _module: 0
+  _moduleName: []
+  _moduleDes: /
+  _characteristicDes: "\uACF5\uACA9 \uC2DC \uAD11\uC5ED \uB9C8\uBCCD \uB300\uBBF8\uC9C0
+    \uBD80\uC5EC"
+  _talent: "\uBE60\uB978 \uC2A4\uD0AC \uC0AC\uC6A9"
+  _talentDes: "\uBC30\uCE58 \uC989\uC2DC SP +35{+5)"

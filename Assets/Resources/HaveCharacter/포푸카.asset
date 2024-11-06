@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4731ca586344a824491c742473a25f0a, type: 3}
+  m_Name: "\uD3EC\uD478\uCE74"
+  m_EditorClassIdentifier: 
+  _nameEngilsh: Popukar
+  _name: "\uD3EC\uD478\uCE74"
+  _star: 3
+  _icon: {fileID: 21300000, guid: 9b68193e66db93f48b550721f7907e2f, type: 3}
+  _position: 2
+  _hp: 1858
+  _attack: 518
+  _defense: 245
+  _magicResistance: 0
+  _placementTime: 70
+  _arrangementCost: 17
+  _block: 2
+  _attackSpeed: 1.05
+  _faith: 0
+  _evasion:
+  - 0
+  - 0
+  _level: 55
+  _elite: 1
+  _potential: 5
+  _potentialDes:
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  - "\uC7AC\uBC30\uCE58 \uC2DC\uAC04 -4\uCD08"
+  - "\uACF5\uACA9\uB825 +23"
+  - "\uC7AC\uB2A5 \uAC15\uD654"
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  _skillStartCost: 
+  _skillCost: 28000000
+  _skillTime: 14000000
+  _skillName:
+  - "\uACF5\uACA9 \uAC15\uD654 \u03B1"
+  _skillType: 0100
+  _skillActive: 0001
+  _skillDes:
+  - "\uACF5\uACA9\uB825 +20%"
+  _skillRank: 1
+  _skillAdd: 000000000000000000000000
+  _classificationName: "\uACF5\uACA9\uC218"
+  _module: 0
+  _moduleName: []
+  _moduleDes: /
+  _characteristicDes: "\uC800\uC9C0 \uC911\uC778 \uBAA8\uB4E0 \uC801 \uB3D9\uC2DC
+    \uACF5\uACA9"
+  _talent: "HP & \uACF5\uACA9\uB825 \uC0C1\uC2B9"
+  _talentDes: "\uCD5C\uB300 HP +8%(+2%), \uACF5\uACA9\uB825 +8%(+2%)"

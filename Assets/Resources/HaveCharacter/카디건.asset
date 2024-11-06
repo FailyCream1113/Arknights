@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4731ca586344a824491c742473a25f0a, type: 3}
+  m_Name: "\uCE74\uB514\uAC74"
+  m_EditorClassIdentifier: 
+  _nameEngilsh: Cardigan
+  _name: "\uCE74\uB514\uAC74"
+  _star: 3
+  _icon: {fileID: 21300000, guid: d7618b34c44548a4c847cd4183ead370, type: 3}
+  _position: 3
+  _hp: 2330
+  _attack: 305
+  _defense: 475
+  _magicResistance: 0
+  _placementTime: 35
+  _arrangementCost: 16
+  _block: 3
+  _attackSpeed: 1.05
+  _faith: 0
+  _evasion:
+  - 0
+  - 0
+  _level: 55
+  _elite: 1
+  _potential: 5
+  _potentialDes:
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  - "\uC7AC\uBC30\uCE58 \uC2DC\uAC04 -4"
+  - "\uCD5C\uB300 HP +200"
+  - "\uC7AC\uBE44\uCE58 \uC2DC\uAC04 -6\uCD08"
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  _skillStartCost: 
+  _skillCost: 1a000000
+  _skillTime: 00000000
+  _skillName:
+  - "HP \uD68C\uBCF5 \u03B1"
+  _skillType: 0100
+  _skillActive: 0001
+  _skillDes:
+  - "\uCD5C\uB300 HP\uC758 20%\uB9CC\uD07C HP \uD68C\uBCF5"
+  _skillRank: 1
+  _skillAdd: 00000000
+  _classificationName: "\uD504\uB85C\uD14D\uD130"
+  _module: 0
+  _moduleName: []
+  _moduleDes: /
+  _characteristicDes: "\uC791 3\uBA85 \uC800\uC9C0 \uAC00\uB2A5"
+  _talent: "\uCD5C\uB300 HP \uC0C1\uC2B9"
+  _talentDes: "\uCD5C\uB300 HP +12%"

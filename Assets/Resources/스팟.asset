@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4731ca586344a824491c742473a25f0a, type: 3}
+  m_Name: "\uC2A4\uD31F"
+  m_EditorClassIdentifier: 
+  _nameEngilsh: Spot
+  _name: "\uC2A4\uD31F"
+  _star: 3
+  _icon: {fileID: 0}
+  _position: 0
+  _hp: 1833
+  _attack: 320
+  _defense: 466
+  _magicResistance: 10
+  _placementTime: 70
+  _arrangementCost: 15
+  _block: 3
+  _attackSpeed: 1.05
+  _faith: 0
+  _evasion:
+  - 0
+  - 0
+  _level: 55
+  _elite: 1
+  _potential: 5
+  _potentialDes:
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  - "\uC7AC\uBC30\uCE58 \uC2DC\uAC04 -4\uCD08"
+  - "\uBC29\uC5B4\uB825 +24"
+  - "\uC7AC\uB2A5 \uAC15\uD654"
+  - "\uBC30\uCE58 \uCF54\uC2A4\uD2B8 -1"
+  _skillStartCost: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  _skillCost: 28000000
+  _skillTime: 19000000
+  _skillName:
+  - "2\uAE09 \uCE58\uB8CC \uBAA8\uB4DC"
+  _skillType: 0100
+  _skillActive: 0001
+  _skillDes:
+  - "\uACF5\uACA9\uB825 +15%, \uACF5\uACA9\uC744 \uC911\uC9C0\uD558\uACE0 \uC804\uB825\uC744
+    \uC8FC\uBCC0 \uC544\uAD70 \uCE90\uB9AD\uD130\uC758  \uCE58\uB8CC\uB97C \uC9C4\uD589\uD55C\uB2E4."
+  _skillRank: 1
+  _skillAdd: 00000000
+  _classificationName: "\uAC00\uB514\uC5B8"
+  _module: 0
+  _moduleName: []
+  _moduleDes: /
+  _characteristicDes: "\uC2A4\uD0AC\uB85C \uC544\uAD70 \uC720\uB2DB HP \uD68C\uBCF5"
+  _talent: "\uC5F0\uB9C9 \uC7A5\uCE58"
+  _talentDes: "\uC544\uAD70 \uC720\uB2DB \uCE58\uB8CC \uD6C4, 3\uCD08\uAC04 \uCE58\uB8CC
+    \uB300\uC0C1\uC758 \uBB3C\uB9AC \uD68C\uD53C +25%(+5%)"
